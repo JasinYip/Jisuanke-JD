@@ -20,7 +20,7 @@
 ### 加分项
 - 熟练使用 git，包括但不仅限于 merge、rebase
 - 熟练使用 Vue、React 等一种以上的组件化开发库
-- 熟练使用 CoffeeScript 或 ECMASript 2015
+- 熟练使用 CoffeeScript 或 ECMAScript 2015
 - 熟练使用 Less 或 Sass 等一种以上 CSS 预处理工具
 - 熟练使用 Jade、Handlebars、Laravel-Blade 等一种以上的模板引擎
 - 关注各种 Web 技术的发展
