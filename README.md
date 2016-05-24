@@ -26,7 +26,7 @@ yejunxing@jisuanke.com
 - 熟练使用 Vue、React 等一种以上的组件化开发库
 - 熟练使用 CoffeeScript 或 ECMAScript 2015
 - 熟练使用 Less 或 Sass 等一种以上 CSS 预处理工具
-- 熟练使用 Jade、Handlebars、Laravel-Blade 等一种以上的模板引擎
+- 熟练使用 Pug、Handlebars、Laravel-Blade 等一种以上的模板引擎
 - 关注各种 Web 技术的发展
 - 具有 Web 游戏开发经验
 - 具有前端工程、模块化、组件化的经验
