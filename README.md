@@ -1,3 +1,9 @@
+### 公司
+
+![计蒜客](http://7xthko.com1.z0.glb.clouddn.com/%E8%AE%A1%E8%92%9C%E5%AE%A2.jpg)
+
+计蒜客（https://jisuanke.com）
+
 ### Head Count
 
 - 正职：1
@@ -7,7 +13,7 @@
 初/中级前端工程师
 
 ### 工作地点
-北京
+北京市 海淀区 苏州街
 
 ### 简历投递邮箱
 
@@ -63,4 +69,3 @@ yejunxing@jisuanke.com
 
 - 接受同等水平实习生，要求能连续工作半年以上
 - 只接受 `pdf` 格式文件，Web 页面类简历请提供 URL 而不是发 `.html` 文件
-
