@@ -1,8 +1,6 @@
-### 公司
-
 ![计蒜客](http://7xthko.com1.z0.glb.clouddn.com/%E8%AE%A1%E8%92%9C%E5%AE%A2.jpg)
 
-计蒜客（https://jisuanke.com）
+计蒜客（ https://jisuanke.com ）
 
 ### Head Count
 
